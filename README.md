@@ -12,4 +12,4 @@ Script feito em python para localizar endereços através do CEP usando a api Vi
 pip install requests
 ```
 >API Utilizada: [ViaCEP](https://viacep.com.br/) <br>
-**Desenvolvedor:** Everton Oliver
+**Desenvolvedor:** Everton Reis
